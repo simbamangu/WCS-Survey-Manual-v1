@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Aerial survey manual draft
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Attempting to convert the WCS survey manual (DOCX) to ReadTheDocs
