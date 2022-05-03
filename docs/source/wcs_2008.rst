@@ -3109,8 +3109,8 @@ confidence in our results: what would have happened to the SRF estimate
 below if one of the two large groups had actually been in a
 transect? [1]_
 
-.. image:: import/media/image34.emf
-   :alt: Aggregated transects.emf
+.. image:: import/media/image34.png
+   :alt: Aggregated transects.png
    :width: 2.92361in
    :height: 1.96528in
 
@@ -3118,8 +3118,8 @@ In comparison, a total count follows a tighter flight pattern (example
 below) and groups are all counted; those spotted further away from the
 flight line, or larger groups, are circled and counted:
 
-.. image:: import/media/image35.emf
-   :alt: TC flight line.emf
+.. image:: import/media/image35.png
+   :alt: TC flight line.png
    :width: 3.14583in
    :height: 2.28472in
 
@@ -3428,8 +3428,8 @@ in the habitat, but the following applies:
    not a curved or circling one; if you circle, it becomes very
    difficult to ensure overlap of all photos.
 
-.. image:: import/media/image36.emf
-   :alt: TC photo pass2.emf
+.. image:: import/media/image36.png
+   :alt: TC photo pass2.png
    :width: 6.22917in
    :height: 2.56944in
 
@@ -3871,8 +3871,8 @@ Example transect & flight maps
 As an example, the two maps below show the transect plan and actual
 flight lines (downloaded from GPS) from a survey in Zambia (WCS 2008).
 
-.. image:: import/media/image37.emf
-   :alt: Transects.emf
+.. image:: import/media/image37.png
+   :alt: Transects.png
    :width: 5.44444in
    :height: 7.875in
 
@@ -3882,8 +3882,8 @@ This is an example of a stratified survey: high-density areas (blue
 lines) were flown at a higher intensity than the other two zones, and
 estimates were produced separately.
 
-.. image:: import/media/image38.emf
-   :alt: CC Flight lines.emf
+.. image:: import/media/image38.png
+   :alt: CC Flight lines.png
    :width: 5.44444in
    :height: 7.875in
 
@@ -4480,19 +4480,19 @@ FSO DATA SHEET
 .. |image11| image:: import/media/image20.png
    :width: 3.30903in
    :height: 3.21181in
-.. |image12| image:: import/media/image21.emf
+.. |image12| image:: import/media/image21.png
    :width: 5.33333in
    :height: 3.15278in
 .. |image13| image:: import/media/image22.png
    :width: 2.24444in
    :height: 2.90764in
-.. |image14| image:: import/media/image23.emf
+.. |image14| image:: import/media/image23.png
    :width: 2.36944in
    :height: 2.10972in
-.. |image15| image:: import/media/image24.emf
+.. |image15| image:: import/media/image24.png
    :width: 2.73542in
    :height: 2.10556in
-.. |image16| image:: import/media/image24.emf
+.. |image16| image:: import/media/image24.png
    :width: 2.73542in
    :height: 2.10556in
 .. |image17| image:: import/media/image26.png
@@ -4510,6 +4510,6 @@ FSO DATA SHEET
 .. |image21| image:: import/media/image32.png
    :width: 0.10417in
    :height: 0.27083in
-.. |image22| image:: import/media/image33.emf
+.. |image22| image:: import/media/image33.png
    :width: 3.41111in
    :height: 4.92917in
