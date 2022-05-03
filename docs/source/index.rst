@@ -6,8 +6,7 @@ This is an online version of the manual for the WCS Flight Programme, originally
 Things have moved on a lot since then, and the manual will be updated with a Version 2.0 or replaced in a parallel effort.
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the converted :doc:`wcs_2008` document.
 
 .. note::
 
