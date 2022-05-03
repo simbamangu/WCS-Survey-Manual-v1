@@ -1,17 +1,17 @@
-Welcome to Lumache's documentation!
+WCS Aerial Survey Manual
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is an online version of the manual for the WCS Flight Programme, originally published in 2008 under a Creative Commons license.
+
+Things have moved on a lot since then, and the manual will be updated with a Version 2.0 or replaced in a parallel effort.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. This has been converted from an original DOCX to RST and hosted on GitHub, and has not been fully organised into sections.
 
 Contents
 --------
